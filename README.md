@@ -1,1 +1,1 @@
-# Techinal-Mock-Interview
+# Mock Tech Round 1 DSA
